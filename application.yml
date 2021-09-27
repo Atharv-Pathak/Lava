@@ -30,5 +30,5 @@ metrics:
 sentry:
   dsn: ""
 server:
-  address: 0.0.0.0
+  address: 10.244.69.185
   port: 2333
