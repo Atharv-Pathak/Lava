@@ -2,7 +2,7 @@ lavalink:
   server:
     bufferDurationMs: 100
     gc-warnings: true
-    password: youshallnotpass
+    password: promusic
     soundcloudSearchEnabled: true
     sources:
       bandcamp: true
