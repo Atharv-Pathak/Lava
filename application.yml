@@ -31,4 +31,4 @@ sentry:
   dsn: ""
 server:
   address: 10.244.69.185
-  port: 2333
+  port: 433
